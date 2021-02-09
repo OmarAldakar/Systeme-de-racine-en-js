@@ -1,0 +1,50 @@
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Carquois </title>
+    
+    <link rel="stylesheet" href="main.css">
+
+    <script src="lib/underscore.js"></script>
+    <script src="lib/backbone.js"></script>
+    <script src="lib/two.js"></script>
+    <script src="lib/math.min.js"></script>
+    <script src="lib/jquery.min.js"></script>
+  </head>
+  <body>
+    <div>
+      <nav class="nav">
+	<ul>
+	  <li class="drop2">
+	    <a class="btn">OPTIONS</a>
+	    <ul class="dropdown2">
+	      <li id="grille"><a class="btn">GRILLE</a></li>
+	      <li id="algo_simple"><a class="btn"> ALGO SIMPLE </a></li>
+	      <li id="algo_generaliser"><a class="btn"> ALGO GENERALISE </a></li>
+	  </li>
+	  </ul>
+	  <li id="cercle"><a class="btn">SOMMETS</a></li>
+	  <li id="fleche"><a class="btn">FLECHES</a></li>
+	  <li class="drop">
+	    <a class="btn">REPETITION</a>
+	    <ul class="dropdown">
+	      <li id="rpt1"> <a class="btn"> 1 </a></li>
+	      <li id="rpt2"> <a class="btn"> 2 </a></li>
+	      <li id="rpt3"> <a class="btn"> 3 </a></li>
+	    </ul>
+	  </li>
+	</ul>
+
+      </nav>
+      
+      <div id="draw-shapes"> </div>
+      <div id="result-div"> </div>
+    </div>
+    <script src="Grid.js"> </script>
+    <script src="DragEvent.js"> </script>
+    <script src="Scene.js"> </script>
+    <script src="Circle.js"> </script>
+    <script src="Fleche.js"> </script>
+    <script src="main.js"> </script>
+  </body>
+</html>
