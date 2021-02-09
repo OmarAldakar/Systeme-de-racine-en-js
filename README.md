@@ -9,5 +9,5 @@ Pour démarrer la visualisation, cliquer sur l'un des trois fichiers html A3, B3
 Pour lancer le logiciel qui détermine un système racine à partir d'un diagramme Dynkin, cliquez sur le fichier main.html sous le répertoire src.
 
 # Images
-![Système de type B3](B3.PNG)
+![Système de type B3](B3.jpg)
 
