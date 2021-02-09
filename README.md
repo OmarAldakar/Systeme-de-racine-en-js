@@ -1,6 +1,6 @@
 # Système de racine
 
-Une visualisation des systèmes de racines en 3D, et un algorithme pour trouver un système de racines à partir d'un diagramme de Dynkin.  
+Une visualisation des systèmes de racines en 3D, et un algorithme pour trouver un système de racines à partir d'un diagramme de Dynkin. Pour plus d'informations sur la théorie des systèmes de racines, lire le rapport qui se trouve dans ce répertoire.  
 
 ## Lancement
 
