@@ -10,4 +10,5 @@ Pour lancer le logiciel qui détermine un système racine à partir d'un diagram
 
 # Images
 ![Système de type B3](B3.jpg)
+![Logiciel diagramme de Dynkin](dynkin.PNG)
 
